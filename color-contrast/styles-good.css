@@ -1,3 +1,6 @@
+body {
+    background-color: #080708;
+}
 .buttons-list {
     display: flex;
     height: 100vh;
@@ -16,23 +19,25 @@ button {
 }
 
 .first-button {
-    background-color: #f2bb13;
+    background-color: #e29416;
 }
 
 .second-button {
-    background-color: #f28c0f;
+    background-color: #e06802;
 }
 
 .third-button {
     background-color: #f2f2f2;
-    color: #000
+    color: #58534f
+    
 }
 
 .fourth-button {
     background-color: #a61b0f;
+    color: #e2e2e2
 }
 
 .fifth-button {
-    background-color: #d9a273;
-    color: #000
+    /* background-color: #d9a273; */
+    background-color: #ae5d2b;
 }

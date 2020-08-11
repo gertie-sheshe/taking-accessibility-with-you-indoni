@@ -1,0 +1,36 @@
+body {
+    background-color: #424242;
+    font-family: 'Baloo Tamma 2', cursive;
+}
+
+label {
+    color: #f2f2f2
+}
+
+.form {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+input {
+    margin-bottom: 20px;
+    margin-top: 5px;
+    padding: 5px;
+    border: solid 1px black;
+    border-radius: 25px;
+    border: none;
+    width: 200px;
+}
+
+
+button {
+    padding: 5px;
+    border-radius: 25px;
+    width: 100px;
+    border: none;
+    color: #f2f2f2;
+    background-color: #e29416
+}

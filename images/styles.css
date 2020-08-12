@@ -1,0 +1,36 @@
+body {
+    font-family: 'Baloo Tamma 2', cursive;
+}
+
+.informative-images {
+    display: flex;
+}
+
+.informative-images img {
+    object-fit: cover;
+    width: 300px;
+    height: 200px;
+    margin: 20px;
+}
+
+.decorative-images {
+    display: flex;
+}
+
+.decorative-images img {
+    object-fit: cover;
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+}
+
+.functional-images {
+    display: flex;
+}
+
+.functional-images a img {
+    object-fit: cover;
+    width: 64px;
+    height: 64px;
+    margin: 20px;
+}

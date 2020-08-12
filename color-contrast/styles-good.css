@@ -1,5 +1,6 @@
 body {
     background-color: #080708;
+    font-family: 'Baloo Tamma 2', cursive;
 }
 .buttons-list {
     display: flex;
@@ -14,16 +15,19 @@ button {
     border-radius: 25px;
     border: none;
     margin-bottom: 20px;
-    color: #f2f2f2;
+    /* color: #58534f; */
+    color: #fff;
     font-size: medium;
 }
 
 .first-button {
     background-color: #e29416;
+    color: #000;
 }
 
 .second-button {
     background-color: #e06802;
+    color: #000;
 }
 
 .third-button {
@@ -38,6 +42,5 @@ button {
 }
 
 .fifth-button {
-    /* background-color: #d9a273; */
     background-color: #ae5d2b;
 }

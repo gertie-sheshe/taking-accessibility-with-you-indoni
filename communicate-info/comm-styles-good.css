@@ -25,12 +25,17 @@ input {
     width: 200px;
 }
 
-
 button {
     padding: 5px;
     border-radius: 25px;
     width: 100px;
     border: none;
-    color: #f2f2f2;
-    background-color: #e29416
+    color: #000;
+    background-color: #e29416;
+    font-family: 'Baloo Tamma 2', cursive;
+}
+
+span {
+    color: #f2bb13;
+    margin-left: 10px;
 }
